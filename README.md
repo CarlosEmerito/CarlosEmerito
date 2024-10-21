@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Carlos López Lovera**
 
-![Visitas](https://shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/CarlosEmerito_CarlosEmerito/github-visits)
+![Visitas](https://shields.io/badge/dynamic/json?color=blue&label=Visitas&query=value&url=https://api.countapi.xyz/hit/CarlosEmerito/CarlosEmerito/github-visits)
 
 
 I'm a **Computer Engineering** student at the University of Málaga (UMA), with a passion for technology and innovation. Currently, I'm part of **RoboRescue**, a research team at UMA dedicated to developing robotic solutions for rescue operations in an automatic way.
