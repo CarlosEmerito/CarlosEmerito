@@ -5,7 +5,7 @@ I'm a **Computer Science** student at the University of Málaga (UMA), with a pa
 
 ## 🧑‍💻 About Me
 
-- 📚 **Education:** I'm studying **Computer Engineering** at UMA, where I gain strong expertise in software development, algorithms, artificial intelligence, and robotics.
+- 📚 **Education:** I'm studying **Computer Science** at UMA, where I gain strong expertise in software development, algorithms, artificial intelligence, and robotics.
 - 🤖 **Experience at RoboRescue:** I'm part of the autonomy department, focusing on how robots can be useful for rescue operations in an autonomous way.
 - 🔍 **Interests:** I'm deeply interested in **artificial intelligence**, **robotics**, and how these fields can shape the future of technology. I am always eager to explore new ways to apply tech to solve real-world problems.
 - 🚀 **Career Goal:** My professional goal is to continue honing my skills in software development and robotics, contributing to high-impact projects that have the potential to improve people's lives.
