@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm **Carlos López Lovera**
 
 
-I'm a **Computer Engineering** student at the University of Málaga (UMA), with a passion for technology and innovation. Currently, I'm part of **RoboRescue**, a research team at UMA dedicated to developing robotic solutions for rescue operations in an automatic way.
+I'm a **Computer Science** student at the University of Málaga (UMA), with a passion for technology and innovation. Currently, I'm part of **RoboRescue**, a research team at UMA dedicated to developing robotic solutions for rescue operations in an automatic way.
 
 ## 🧑‍💻 About Me
 
