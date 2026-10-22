@@ -12,7 +12,7 @@ Construyo producto de punta a punta: un panel de operaciones con IA que corre en
 
 ## Stack
 
-TypeScript · Next.js · React · Node · Python · PostgreSQL · Prisma · SQLite · Docker · GitHub Actions · Gemini / Ollama / APIs compatibles con OpenAI · Linux
+TypeScript · Next.js · React · Node · Python · PostgreSQL · Prisma · SQLite · Docker · GitHub Actions · SLM & LLM · Linux
 
 ## Trayectoria
 
