@@ -1,46 +1,54 @@
 # Carlos «Emérito» López Lovera
 
-**CTO en [OpenExpert](https://github.com/OpenExpert-ai/OpenExpert) y [GoTogether](https://gotogether.es) · Fundador de [EmeDotEme](https://www.emedoteme.es) · Ingeniería Informática, Universidad de Málaga**
+**Ingeniero de software y CTO especializado en productos de IA, automatización y sistemas seguros.**
 
-Construyo producto de punta a punta: un panel de operaciones con IA que corre entero en tu máquina, un medio de noticias con su pipeline editorial automatizado y las herramientas con las que trabajo cada día. Antes, simulación de robótica en RoboRescue UMA.
+Construyo productos de extremo a extremo: arquitectura, desarrollo, integración de modelos, seguridad y despliegue.
 
-## Qué estoy construyendo
+## Actualmente
 
-- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — panel de operaciones con IA *local-first*: expertos con datos aislados, chat con herramientas, acciones que necesitan aprobación humana y traza de auditoría completa. TypeScript, React y SQLite; sin nube ni cuentas. MIT. [Guía](https://openexpert-ai.github.io/OpenExpert/)
-- **[EmeDotEme](https://www.emedoteme.es)** — cripto, IA, mercados y ciberseguridad. Un pipeline lee 23 fuentes RSS, agrupa por tema y redacta el artículo bilingüe con Gemini; nada se publica sin aprobación editorial desde Telegram.
-- **Mi entorno** — Arch Linux + Hyprland con asistente de voz propio, servicios en systemd y copias cifradas fuera del equipo ([dotfiles](https://github.com/CarlosEmerito/dotfiles)).
+- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — panel de operaciones con IA *local-first*, herramientas auditables y acciones con aprobación humana.
+- **[GoTogether](https://gotogether.es)** — CTO y desarrollo de producto.
+- **[EmeDotEme](https://www.emedoteme.es)** — medio sobre cripto, IA, mercados y ciberseguridad, con pipeline editorial automatizado y revisión humana.
+
+## Especialidades
+
+IA aplicada · Full-stack · Automatización · Seguridad y privacidad · Arquitectura · Despliegue y operación
 
 ## Stack
 
-TypeScript · Next.js · React · Node · Python · PostgreSQL · Prisma · SQLite · Docker · GitHub Actions · SLM & LLM · Linux
+TypeScript · Next.js · React · Node.js · Python · PostgreSQL · Prisma · SQLite · Docker · GitHub Actions · Linux
 
 ## Trayectoria
 
 - **CTO** — OpenExpert y GoTogether
 - **Fundador y editor** — EmeDotEme
-- **Ingeniero de software** — RoboRescue UMA, simulación de robótica (2024–2025)
-- **Profesor de Robótica** — Erasmus+ (2026)
+- **Ingeniero de software** — RoboRescue UMA, simulación de robótica
+- **Profesor de Robótica** — Erasmus+
 - **Grado en Ingeniería Informática** — Universidad de Málaga, en curso
 
-## Enlaces
+## Contacto
 
-[emedoteme.es](https://www.emedoteme.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lópez-lovera-3115182a6/) · [Telegram](https://t.me/CarleSLee)
+[Web](https://www.emedoteme.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lópez-lovera-3115182a6/) · [Telegram](https://t.me/CarleSLee)
 
 ---
 
 <details>
 <summary><b>English</b></summary>
 
-### Hi, I'm Carlos "Emérito" López Lovera
+# Carlos «Emérito» López Lovera
 
-**CTO at [OpenExpert](https://github.com/OpenExpert-ai/OpenExpert) and [GoTogether](https://gotogether.es) · Founder of [EmeDotEme](https://www.emedoteme.es) · Computer Science, University of Málaga**
+**Software engineer and CTO focused on AI products, automation and secure systems.**
 
-- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — local-first AI operations dashboard: isolated experts, tool-using chat, human-approved actions and a full audit trail. TypeScript, React, SQLite. MIT.
-- **[EmeDotEme](https://www.emedoteme.es)** — crypto, AI, markets and cybersecurity outlet. An automated pipeline drafts bilingual articles with Gemini; nothing ships without editorial approval from Telegram.
-- **My setup** — Arch Linux + Hyprland with a voice assistant, systemd services and encrypted off-site backups.
+I build products end to end: architecture, development, model integration, security and deployment.
 
-**Stack:** TypeScript · Next.js · React · Node · Python · PostgreSQL · Prisma · SQLite · Docker · GitHub Actions · Linux
+## Current work
 
-Previously: autonomous robotics simulation at RoboRescue UMA.
+- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — a local-first AI operations dashboard with auditable tools and human-approved actions.
+- **[GoTogether](https://gotogether.es)** — CTO and product development.
+- **[EmeDotEme](https://www.emedoteme.es)** — a publication about crypto, AI, markets and cybersecurity, powered by an automated editorial pipeline with human review.
+
+**Focus:** Applied AI · Full-stack engineering · Automation · Security and privacy · Architecture · Deployment and operations
+
+[Website](https://www.emedoteme.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lópez-lovera-3115182a/) · [Telegram](https://t.me/CarleSLee)
 
 </details>
