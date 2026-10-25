@@ -6,9 +6,10 @@ Construyo productos de extremo a extremo: arquitectura, desarrollo, integración
 
 ## Actualmente
 
-- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — panel de operaciones con IA *local-first*, herramientas auditables y acciones con aprobación humana.
 - **[GoTogether](https://gotogether.es)** — CTO y desarrollo de producto.
 - **[EmeDotEme](https://www.emedoteme.es)** — medio sobre cripto, IA, mercados y ciberseguridad, con pipeline editorial automatizado y revisión humana.
+- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — proyecto propio: panel de operaciones con IA *local-first*, herramientas auditables y acciones con aprobación humana.
+- **[La Taberna de Eme](https://carlosemerito.github.io/latabernadeeme/)** — referencia de D&D 5e y 5.5 en español, con 2.500 fichas del SRD y herramientas de mesa.
 
 ## Especialidades
 
@@ -20,7 +21,7 @@ TypeScript · Next.js · React · Node.js · Python · PostgreSQL · Prisma · S
 
 ## Trayectoria
 
-- **CTO** — OpenExpert y GoTogether
+- **CTO** — GoTogether
 - **Fundador y editor** — EmeDotEme
 - **Ingeniero de software** — RoboRescue UMA, simulación de robótica
 - **Profesor de Robótica** — Erasmus+
@@ -28,7 +29,7 @@ TypeScript · Next.js · React · Node.js · Python · PostgreSQL · Prisma · S
 
 ## Contacto
 
-[Web](https://www.emedoteme.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lópez-lovera-3115182a6/) · [Telegram](https://t.me/CarleSLee)
+[Web personal](https://carloslopezlovera.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lopez-lovera-3115182a6/) · [Telegram](https://t.me/CarleSLee)
 
 ---
 
@@ -43,12 +44,13 @@ I build products end to end: architecture, development, model integration, secur
 
 ## Current work
 
-- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — a local-first AI operations dashboard with auditable tools and human-approved actions.
 - **[GoTogether](https://gotogether.es)** — CTO and product development.
 - **[EmeDotEme](https://www.emedoteme.es)** — a publication about crypto, AI, markets and cybersecurity, powered by an automated editorial pipeline with human review.
+- **[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert)** — a personal project: local-first AI operations dashboard with auditable tools and human-approved actions.
+- **[La Taberna de Eme](https://carlosemerito.github.io/latabernadeeme/)** — a Spanish reference for D&D 5e and 5.5, with 2,500 SRD entries and table tools.
 
 **Focus:** Applied AI · Full-stack engineering · Automation · Security and privacy · Architecture · Deployment and operations
 
-[Website](https://www.emedoteme.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lópez-lovera-3115182a/) · [Telegram](https://t.me/CarleSLee)
+[Personal site](https://carloslopezlovera.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lopez-lovera-3115182a6/) · [Telegram](https://t.me/CarleSLee)
 
 </details>
