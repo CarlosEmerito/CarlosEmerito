@@ -7,19 +7,31 @@
       "tag": "IA aplicada",
       "title": "OpenExpert",
       "description": "Panel de IA local-first con datos aislados y acciones sujetas a aprobación humana. Licencia MIT.",
-      "color": "#0A1EF5"
+      "color": "#94A5FF"
     },
     {
       "tag": "Tecnología editorial",
       "title": "EmeDotEme",
       "description": "Medio sobre cripto, IA, mercados y ciberseguridad. Diseñé el flujo editorial, desde las fuentes hasta la publicación.",
-      "color": "#F51B2A"
+      "color": "#FF727C"
     },
     {
       "tag": "Herramientas de juego",
       "title": "La Taberna de Eme",
       "description": "Referencia de D&D 5e y 5.5 en español, con unas 2.500 fichas, búsqueda y herramientas de mesa.",
-      "color": "#F5BA18"
+      "color": "#F4C467"
+    },
+    {
+      "tag": "En desarrollo",
+      "title": "Umami",
+      "description": "Proyecto en el que estoy trabajando con qalyBuild.",
+      "color": "#FF727C"
+    },
+    {
+      "tag": "Código abierto",
+      "title": "openQomu",
+      "description": "Espacio colaborativo autoalojable de qalyBuild con chat, Kanban, documentos y archivos en tiempo real.",
+      "color": "#94A5FF"
     }
   ]
 }

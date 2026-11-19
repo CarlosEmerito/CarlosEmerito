@@ -17,14 +17,15 @@ from xml.etree import ElementTree
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
-PAPER, INK, BORDER = "#FAF9F6", "#111111", "#E2E0D8"
-BLUE, RED, OCHRE = "#0A1EF5", "#F51B2A", "#F5BA18"
+PAPER, INK, BORDER = "#191917", "#F5F2E9", "#44423A"
+CARD, MUTED = "#242320", "#BDB9AD"
+BLUE, RED, OCHRE = "#94A5FF", "#FF727C", "#F4C467"
 MONTHS = "ENE FEB MAR ABR MAY JUN JUL AGO SEP OCT NOV DIC".split()
 LEVELS = {
-    "NONE": "#EBE9E2",
-    "FIRST_QUARTILE": "#CBD2FF",
-    "SECOND_QUARTILE": "#8E9AFF",
-    "THIRD_QUARTILE": "#4A5CFE",
+    "NONE": "#32312C",
+    "FIRST_QUARTILE": "#303C78",
+    "SECOND_QUARTILE": "#4A59AE",
+    "THIRD_QUARTILE": "#6376E8",
     "FOURTH_QUARTILE": BLUE,
 }
 QUERY = """
@@ -41,15 +42,15 @@ query ProfileCalendar($login: String!) {
   }
 }
 """
-STYLE = """
-    text { fill: #111111; font-family: Georgia, 'Times New Roman', serif; }
-    .mono, .small { font-family: 'Courier New', monospace; letter-spacing: 1.3px; }
-    .mono { font-size: 12px; font-weight: bold; }
-    .small { font-size: 10px; }
-    .muted { fill: #575650; }
-    .blue { fill: #0A1EF5; }
-    .italic { font-style: italic; }
-    .rule { stroke: #E2E0D8; }
+STYLE = f"""
+    text {{ fill: {INK}; font-family: Georgia, 'Times New Roman', serif; }}
+    .mono, .small {{ font-family: 'Courier New', monospace; letter-spacing: 1.3px; }}
+    .mono {{ font-size: 12px; font-weight: bold; }}
+    .small {{ font-size: 10px; }}
+    .muted {{ fill: {MUTED}; }}
+    .blue {{ fill: {BLUE}; }}
+    .italic {{ font-style: italic; }}
+    .rule {{ stroke: {BORDER}; }}
 """
 
 
@@ -232,7 +233,7 @@ def build_header(config: dict, demo: bool) -> str:
   <g transform="translate(599 {max(91, (height - 120) // 2 + 19)})" aria-hidden="true">
     <defs><clipPath id="engraving"><circle cx="119" cy="69" r="65"/></clipPath></defs>
     <circle cx="119" cy="69" r="80" fill="none" stroke="{BORDER}" stroke-dasharray="2 4"/>
-    <circle cx="119" cy="69" r="65" fill="#EEF0FC"/>
+    <circle cx="119" cy="69" r="65" fill="#252A42"/>
     <g clip-path="url(#engraving)"><g transform="rotate(-25 119 69)">{lines}</g></g>
     <ellipse cx="119" cy="69" rx="101" ry="31" transform="rotate(-27 119 69)" fill="none" stroke="{INK}" stroke-width="1.2"/>
     <path d="M119 -19v9m0 158v9M31 69h9m158 0h9" stroke="{INK}"/>
@@ -357,7 +358,7 @@ def build_highlights(cards: list[dict], demo: bool) -> str:
             x = round(46 + index * (width + gap), 2)
             color = card["color"]
             blocks.extend((
-                f'<rect x="{x}" y="{top}" width="{width:.2f}" height="{height}" rx="11" fill="{PAPER}" stroke="{BORDER}"/>',
+                f'<rect x="{x}" y="{top}" width="{width:.2f}" height="{height}" rx="11" fill="{CARD}" stroke="{BORDER}"/>',
                 f'<rect x="{x+20}" y="{top+21}" width="19" height="4" rx="2" fill="{color}"/>',
             ))
             y = top + 45
