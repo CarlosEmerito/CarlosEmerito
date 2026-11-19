@@ -342,8 +342,9 @@ def build_highlights(cards: list[dict], demo: bool) -> str:
                    label(45, 59, "Destacados", font_size=40) +
                    rule(46, 78, 814) + label(46, 117, "Sin destacados", "italic muted", font_size=21))
 
-    for start in range(0, len(cards), 3):
-        row = cards[start:start + 3]
+    columns = 2 if len(cards) == 4 else 3
+    for start in range(0, len(cards), columns):
+        row = cards[start:start + columns]
         gap = 14
         width = (768 - gap * (len(row) - 1)) / len(row)
         prepared = [
@@ -426,7 +427,7 @@ def main() -> None:
             "header-dark.svg": build_header(config, demo),
             "heatmap-dark.svg": build_heatmap(stats, demo),
             "stats-dark.svg": build_stats(stats, demo),
-            "highlights-dark.svg": build_highlights(config["cards"], demo),
+            "proyectos-dark.svg": build_highlights(config["cards"], demo),
         }
         for image in images.values():
             ElementTree.fromstring(image)

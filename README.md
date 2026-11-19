@@ -2,9 +2,9 @@
 
 [Portfolio](https://carloslopezlovera.es) · [LinkedIn](https://www.linkedin.com/in/carlos-lopez-lovera-3115182a6/) · [Email](mailto:carlosemerito13@gmail.com) · [Sobre mí / About me](./SOBRE-MI.md)
 
-![Proyectos destacados de Carlos: OpenExpert, EmeDotEme, La Taberna de Eme, Umami y openQomu.](./assets/highlights-dark.svg)
+![Proyectos destacados de Carlos: EmeDotEme, La Taberna de Eme, Umami y openQomu.](./assets/proyectos-dark.svg)
 
-[OpenExpert](https://github.com/OpenExpert-ai/OpenExpert) · [EmeDotEme](https://www.emedoteme.es) · [La Taberna de Eme](https://carlosemerito.github.io/latabernadeeme/) · [Dotfiles de Arch Linux y Hyprland](https://github.com/CarlosEmerito/dotfiles)
+[EmeDotEme](https://www.emedoteme.es) · [La Taberna de Eme](https://carlosemerito.github.io/latabernadeeme/) · [Dotfiles de Arch Linux y Hyprland](https://github.com/CarlosEmerito/dotfiles)
 
 **Umami** (en desarrollo en [qalyBuild](https://github.com/qalyBuild)) · [openQomu](https://github.com/qalyBuild/openQomu)
 

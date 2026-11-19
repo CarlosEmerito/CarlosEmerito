@@ -4,12 +4,6 @@
   "bio": "Construyo software de extremo a extremo. Estudio Ingeniería Informática en la UMA y trabajo en producto e IA aplicada.",
   "cards": [
     {
-      "tag": "IA aplicada",
-      "title": "OpenExpert",
-      "description": "Panel de IA local-first con datos aislados y acciones sujetas a aprobación humana. Licencia MIT.",
-      "color": "#94A5FF"
-    },
-    {
       "tag": "Tecnología editorial",
       "title": "EmeDotEme",
       "description": "Medio sobre cripto, IA, mercados y ciberseguridad. Diseñé el flujo editorial, desde las fuentes hasta la publicación.",
