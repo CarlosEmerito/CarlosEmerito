@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="135" viewBox="0 0 860 135" role="img" aria-labelledby="title desc">
+  <title id="title">Calendario de actividad</title>
+  <desc id="desc">Pendiente de la primera ejecución.</desc>
+  <style>
+    text { fill: #111111; font-family: Georgia, 'Times New Roman', serif; }
+    .mono, .small { font-family: 'Courier New', monospace; letter-spacing: 1.3px; }
+    .mono { font-size: 12px; font-weight: bold; }
+    .small { font-size: 10px; }
+    .muted { fill: #575650; }
+    .blue { fill: #0A1EF5; }
+    .italic { font-style: italic; }
+    .rule { stroke: #E2E0D8; }
+</style>
+  <rect x="1" y="1" width="858" height="133" rx="16" fill="#FAF9F6" stroke="#E2E0D8" stroke-width="1.5"/>
+  <text x="45" y="63" class="" font-size="34">Primera actualización en curso</text><text x="46" y="100" class="italic muted" font-size="18">El calendario y las cifras se cargarán desde GitHub.</text>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "username": "CarlosEmerito",
+  "name": "Carlos «Emérito» López Lovera",
+  "bio": "Construyo software de extremo a extremo. Estudio Ingeniería Informática en la UMA y trabajo en producto e IA aplicada.",
+  "cards": [
+    {
+      "tag": "IA aplicada",
+      "title": "OpenExpert",
+      "description": "Panel de IA local-first con datos aislados y acciones sujetas a aprobación humana. Licencia MIT.",
+      "color": "#0A1EF5"
+    },
+    {
+      "tag": "Tecnología editorial",
+      "title": "EmeDotEme",
+      "description": "Medio sobre cripto, IA, mercados y ciberseguridad. Diseñé el flujo editorial, desde las fuentes hasta la publicación.",
+      "color": "#F51B2A"
+    },
+    {
+      "tag": "Herramientas de juego",
+      "title": "La Taberna de Eme",
+      "description": "Referencia de D&D 5e y 5.5 en español, con unas 2.500 fichas, búsqueda y herramientas de mesa.",
+      "color": "#F5BA18"
+    }
+  ]
+}

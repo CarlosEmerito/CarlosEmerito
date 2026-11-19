@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos «Emérito» López Lovera</title>
+  <desc id="desc">Construyo software de extremo a extremo. Estudio Ingeniería Informática en la UMA y trabajo en producto e IA aplicada. GitHub: @CarlosEmerito.</desc>
+  <style>
+    text { fill: #111111; font-family: Georgia, 'Times New Roman', serif; }
+    .mono, .small { font-family: 'Courier New', monospace; letter-spacing: 1.3px; }
+    .mono { font-size: 12px; font-weight: bold; }
+    .small { font-size: 10px; }
+    .muted { fill: #575650; }
+    .blue { fill: #0A1EF5; }
+    .italic { font-style: italic; }
+    .rule { stroke: #E2E0D8; }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-4px); }
+    }
+    .orbit { animation: float 6s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .orbit { animation: none; } }
+</style>
+  <rect x="1" y="1" width="858" height="318" rx="16" fill="#FAF9F6" stroke="#E2E0D8" stroke-width="1.5"/>
+  <text x="46" y="40" class="mono" >GITHUB / PERFIL</text>
+  <text x="814" y="40" class="mono blue" text-anchor="end">@CARLOSEMERITO</text>
+  <path d="M46 56H814" class="rule" fill="none"/>
+  <text x="42" y="131" class="" font-size="60" letter-spacing="-2">Carlos «Emérito»</text>
+  <text x="42" y="188" class="" font-size="60" letter-spacing="-2">López Lovera</text>
+  <text x="46" y="232" class="italic muted" font-size="19">Construyo software de extremo a extremo. Estudio</text>
+  <text x="46" y="258" class="italic muted" font-size="19">Ingeniería Informática en la UMA y trabajo en</text>
+  <text x="46" y="284" class="italic muted" font-size="19">producto e IA aplicada.</text>
+  <g transform="translate(599 119)" aria-hidden="true">
+    <defs><clipPath id="engraving"><circle cx="119" cy="69" r="65"/></clipPath></defs>
+    <circle cx="119" cy="69" r="80" fill="none" stroke="#E2E0D8" stroke-dasharray="2 4"/>
+    <circle cx="119" cy="69" r="65" fill="#EEF0FC"/>
+    <g clip-path="url(#engraving)"><g transform="rotate(-25 119 69)"><path d="M0 -55 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -49 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -43 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -37 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -31 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -25 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -19 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -13 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -7 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 -1 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 5 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 11 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 17 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 23 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 29 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 35 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 41 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 47 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 53 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 59 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 65 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 71 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 77 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 83 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 89 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 95 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 101 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 107 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 113 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 119 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 125 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 131 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 137 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 143 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 149 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 155 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 161 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 167 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 173 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 179 H228" stroke="#0A1EF5" stroke-width="1"/><path d="M0 185 H228" stroke="#0A1EF5" stroke-width="1"/></g></g>
+    <ellipse cx="119" cy="69" rx="101" ry="31" transform="rotate(-27 119 69)" fill="none" stroke="#111111" stroke-width="1.2"/>
+    <path d="M119 -19v9m0 158v9M31 69h9m158 0h9" stroke="#111111"/>
+    <g class="orbit"><circle cx="188" cy="26" r="9" fill="#F51B2A" stroke="#FAF9F6" stroke-width="2"/></g>
+    <circle cx="53" cy="109" r="5" fill="#F5BA18" stroke="#FAF9F6" stroke-width="1.5"/>
+  </g>
+</svg>
