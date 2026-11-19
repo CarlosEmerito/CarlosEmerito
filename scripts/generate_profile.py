@@ -423,10 +423,10 @@ def main() -> None:
 
         stats = calculate_stats(days, today)
         images = {
-            "header.svg": build_header(config, demo),
-            "heatmap.svg": build_heatmap(stats, demo),
-            "stats.svg": build_stats(stats, demo),
-            "highlights.svg": build_highlights(config["cards"], demo),
+            "header-dark.svg": build_header(config, demo),
+            "heatmap-dark.svg": build_heatmap(stats, demo),
+            "stats-dark.svg": build_stats(stats, demo),
+            "highlights-dark.svg": build_highlights(config["cards"], demo),
         }
         for image in images.values():
             ElementTree.fromstring(image)
